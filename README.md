@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I’m currently learning: python, typescript and c++<br>📫 How to reach me: nephisthemagician@protonmail.com<br>🎲 Fun fact: I'm a part-time magician.
+📚 I’m currently learning: python, typescript and c++<br>📫 How to reach me: nephis@tuta.io<br>🎲 Fun fact: I'm a part-time magician.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Nephis#3580) 
